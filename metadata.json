@@ -1,0 +1,5 @@
+{
+  "name": "DeckArchitect",
+  "description": "A professional card game deck organizer with grid filtering, deck code encryption, and high-resolution card previews.",
+  "requestFramePermissions": []
+}
